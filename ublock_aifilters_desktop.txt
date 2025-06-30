@@ -1,0 +1,21 @@
+www.google.com##.M8OgIe
+www.google.com##.hdzaWe
+
+! May 24, 2025 https://www.youtube.com
+www.youtube.com###expandable-metadata > .ytd-watch-flexy.style-scope
+
+! May 24, 2025 https://www.youtube.com
+www.youtube.com##.ytd-video-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
+
+! Jun 1, 2025 https://github.com
+github.com##div.react-code-size-details-in-header > .prc-Button-ButtonBase-c50BI.jlVuVO.Box-sc-g0xbh4-0
+
+! Jun 9, 2025 https://www.google.com
+www.google.com##.T3FoJb.nPDzT.XVMlrc
+
+! Jun 19, 2025 https://www.google.com
+www.google.com##.MjjYud > div > .EyBRub
+
+! Jun 21, 2025 https://www.google.com
+www.google.com##.A6K0A > .cUnQKe
+
